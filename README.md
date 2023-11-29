@@ -19,5 +19,6 @@ app: "com.tencent.tmgp.sgame"<br>
 params_a: 267 2 1 3<br>
 params_b: 258 2 40 -1 2<br>
 
+And the config file should end with "END".<br>
 Pixelworks X7 supports 4 kinds of parameters, called "type-id".<br>
 Input "/odm/bin/irisConfig -help" in Termux for help.<br>
